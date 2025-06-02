@@ -1,5 +1,5 @@
 
-[![Production](https://img.shields.io/badge/Production%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Beta](https://img.shields.io/badge/Alpha%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Testing](https://img.shields.io/badge/Testing%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Production](https://img.shields.io/badge/Production%3F-yes-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Beta](https://img.shields.io/badge/Beta%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Testing](https://img.shields.io/badge/Testing%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 # XSales
 Detailed sales report for coin/bill acceptor pulse based vending machines. Plug and play to all existing machines including coffee vendo, and other vendo in the market.
